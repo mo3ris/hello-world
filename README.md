@@ -1,2 +1,3 @@
 # hello-world
-my first GitHub repo
+my first GitHub repository
+Update READEME with description
